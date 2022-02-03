@@ -1,7 +1,7 @@
 # Node ECVRF
 
-A Goldberg Verifiable Random Function (VRF) implementation following IETF VRF draft 10
-[draft-irtf-cfrg-vrf-10](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-vrf-10.html).
+A Goldberg Verifiable Random Function (VRF) implementation following the IETF VRF draft 10
+located at [draft-irtf-cfrg-vrf-10](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-vrf-10.html).
 This library implements ECVRF-SECP256K1-SHA256-TAI.
 
 ## Versioning
