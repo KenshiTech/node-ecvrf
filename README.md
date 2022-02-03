@@ -12,7 +12,7 @@ This library follows the following version number scheme:
 VERSION = 0.{draft}.{revision}
 ```
 
-Where `draft` is the IETF VRF draft number and `revision` is a number tracking this libraries revisions.
+Where `draft` is the IETF VRF draft number and `revision` is a number tracking this library's revisions.
 
 ## Naming Conventions
 
