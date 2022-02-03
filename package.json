@@ -1,0 +1,16 @@
+{
+  "name": "@kenshi.io/node-ecvrf",
+  "version": "0.10.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bn.js": "^5.2.0",
+    "elliptic": "^6.5.4"
+  }
+}
