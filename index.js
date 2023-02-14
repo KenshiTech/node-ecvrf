@@ -246,3 +246,4 @@ module.exports.verify = ECVRF_verify;
 module.exports.decode = ECVRF_decode_proof;
 module.exports.keygen = ECVRF_keygen;
 module.exports.getFastVerifyComponents = getFastVerifyComponents;
+module.exports.proofToHash = ECVRF_proof_to_hash;
